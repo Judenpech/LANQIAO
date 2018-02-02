@@ -1,5 +1,7 @@
 # "蓝桥杯"全国软件和信息技术专业人才大赛练习系统
 
+[传送门](http://lx.lanqiao.cn/problemsets.page)
+
 ## 系统适用范围
 
 练习系统只是针对软件类报名院校和学生使用（目前还未推出电子类的模拟试题）。
@@ -28,8 +30,6 @@
 
 7. 即时评测：提交答案后马上进行评测并给出评测结果，方便同学了解自己程序的不足，对自己的程序进行改进。
 
-[传送门](http://lx.lanqiao.cn/problemsets.page)
-
 ## 试题集
 
 - [入门训练](https://github.com/jl223vy/LANQIAO/blob/master/Docs/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83.md)
@@ -41,5 +41,25 @@
 - 算法提高
 
 - 历届试题
+
+## 编辑环境
+
+我们建议您使用大赛指定的编辑环境来编写你的代码，以保证评测时和我们的编译环境一致，同时和比赛时使用的环境也一致。
+
+对于不同的语言，系统的编译环境如下：
+
+|语言|	编译环境	|编译选项|
+|---|---|---|
+|C++|	g++ (GCC) 4.7.2|	g++ code.cpp -O2 -Wl,--stack=268435456 -DONLINE_JUDGE|
+|C|	gcc (GCC) 4.7.2	|gcc code.c -O2 -Wl,--stack=268435456 -DONLINE_JUDGE|
+|JAVA|	Javac 1.6.0_07	|javac Main.java|
+
+推荐的编辑环境如下：
+
+|语言|编辑环境|	下载地址|
+|---|---|---|
+|C++	|Dev-CPP	|[SourceForge上的Dev-CPP](http://sourceforge.net/projects/orwelldevcpp/)|
+|C	|Dev-CPP	|[SourceForge上的Dev-CPP](http://sourceforge.net/projects/orwelldevcpp/)|
+|JAVA	|Eclipse	|[Eclipse](http://www.eclipse.org/downloads/)|
 
 -----
