@@ -28,7 +28,7 @@
 
 7. 即时评测：提交答案后马上进行评测并给出评测结果，方便同学了解自己程序的不足，对自己的程序进行改进。
 
-[Click here](http://lx.lanqiao.cn/problemsets.page)
+[传送门](http://lx.lanqiao.cn/problemsets.page)
 
 ## 试题集
 
