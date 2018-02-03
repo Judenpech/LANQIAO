@@ -44,7 +44,7 @@
 
 ## 测试数据
 
-[Download](https://github.com/jl223vy/LANQIAO/blob/master/Docs/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.zip)
+[Download](https://github.com/jl223vy/LANQIAO/raw/master/Docs/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.zip)
 
 ## 编辑环境
 
