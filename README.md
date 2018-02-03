@@ -42,6 +42,10 @@
 
 - 历届试题
 
+## 测试数据
+
+[Download](https://github.com/jl223vy/LANQIAO/blob/master/Docs/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.zip)
+
 ## 编辑环境
 
 我们建议您使用大赛指定的编辑环境来编写你的代码，以保证评测时和我们的编译环境一致，同时和比赛时使用的环境也一致。
