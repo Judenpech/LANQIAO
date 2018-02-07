@@ -1,4 +1,4 @@
-# "蓝桥杯"全国软件和信息技术专业人才大赛练习系统
+# "蓝桥杯"练习系统
 
 [传送门](http://lx.lanqiao.cn/problemsets.page)
 
@@ -14,7 +14,7 @@
 
 该系统将帮助参赛的同学熟悉比赛试题的形式和解题方式。通过使用本系统，同学可以学习到一些重要的编程方法，提高自己的编程水平，在大赛中取得更好的名次，提升自己的竞争力。
 
-系统的特点：
+**系统的特点：**
 
 1. 入门引导：设置入门引导试题，帮助同学了解比赛的命题形式和解题方法。
 
@@ -32,15 +32,13 @@
 
 ## 试题集
 
-- [入门训练](https://github.com/jl223vy/LANQIAO/blob/master/Docs/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83.md)
-
-- [基础练习](https://github.com/jl223vy/LANQIAO/blob/master/Docs/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0.md)
-
-- 算法训练
-
-- 算法提高
-
-- 历届试题
+|试题|C/C++|完成情况|
+|---|---|---|
+|[入门训练](https://github.com/jl223vy/LANQIAO/blob/master/Docs/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83.md)|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83)|4/4|
+|[基础练习](https://github.com/jl223vy/LANQIAO/blob/master/Docs/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0.md)|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0)|30|
+|算法训练|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83)|177|
+|算法提高|[查看代码]()|217|
+|历届试题|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%8E%86%E5%B1%8A%E8%AF%95%E9%A2%98)|55|
 
 ## 测试数据
 
