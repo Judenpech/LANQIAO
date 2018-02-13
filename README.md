@@ -1,4 +1,4 @@
-# "蓝桥杯"练习系统
+# "蓝桥杯"练习
 
 - ["蓝桥杯"练习系统](http://lx.lanqiao.cn/problemsets.page)
 - [测试数据下载](https://github.com/jl223vy/LANQIAO/raw/master/Docs/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.zip)
@@ -13,7 +13,7 @@
 |算法提高|[查看代码]()|/217|
 |历届试题|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%8E%86%E5%B1%8A%E8%AF%95%E9%A2%98)|/55|
 
-Note: VIP试题因为没有权限所以没有提交检测。
+**Note: ** 部分VIP试题已提交[ZCMUOJ](http://acm.zcmu.edu.cn/JudgeOnline/problemset.php)检测通过。
 
 ## 试题集
 
