@@ -8,7 +8,7 @@
 |试题|C/C++|完成情况|
 |---|---|:---:|
 |入门训练|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83)|4/4|
-|基础练习|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0)|22/30|
+|基础练习|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0)|25/30|
 |算法训练|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83)|/177|
 |算法提高|[查看代码]()|/217|
 |历届试题|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%8E%86%E5%B1%8A%E8%AF%95%E9%A2%98)|/55|
