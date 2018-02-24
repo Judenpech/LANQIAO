@@ -10,10 +10,9 @@
 |入门训练|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83)|4/4|
 |基础练习|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0)|25/30|
 |算法训练|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83)|20/177|
-|算法提高|[查看代码]()|0/217|
+|算法提高|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E7%AE%97%E6%B3%95%E6%8F%90%E9%AB%98)|10/217|
 |历届试题|[查看代码](https://github.com/jl223vy/LANQIAO/tree/master/%E5%8E%86%E5%B1%8A%E8%AF%95%E9%A2%98)|2/55|
 
-**Note:** 部分基础练习中的 VIP 试题已提交[ZCMUOJ](http://acm.zcmu.edu.cn/JudgeOnline/problemset.php)检测通过。
 
 ## 试题集
 
