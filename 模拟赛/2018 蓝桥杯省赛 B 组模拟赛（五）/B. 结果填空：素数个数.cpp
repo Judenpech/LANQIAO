@@ -1,31 +1,24 @@
 #include <iostream>
 #include <cmath>
+#include <algorithm>
 using namespace std;
-int isPrime(long long n){
-	for(long long i=2;i<=sqrt(n);i++){
+int isPrime(int n){
+	for(int i=2;i<=sqrt(n);i++){
 		if(n%i==0) return 0;
 	}
 	return 1;
 }
 int main(){
-	long long sum=0;
-	for(long long i=10234567;i<=76543210;i++){
-		long long t=i;
-		int cnt=0;
-		int flag=0;
-		while(t!=0){
-			if(t%10==8 || t%10==9){
-				flag=1;
-				break;
-			}
-			cnt+=t%10;
-			t/=10;
+	int cnt=0;
+	int a[8]={0,1,2,3,4,5,6,7};
+	do{
+		if(a[0]==0) continue;
+		int sum=0;
+		for(int i=0;i<8;i++){
+			sum=sum*10+a[i];
 		}
-		if(flag) continue;
-		if(cnt==28){
-			if(isPrime(i)) sum++;
-		} 
-	}
-	cout<<sum;
+		if(isPrime(sum)) cnt++;
+	}while(next_permutation(a,a+8));
+	cout<<cnt;
 	return 0;
 }
